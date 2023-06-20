@@ -36,7 +36,7 @@ body {
 }
 
 
-@media screen and (min-width:992px){ /*데스크탑*/
+@media  (min-width:992px){ /*데스크탑*/
     
     .images {
         position: fixed;
@@ -76,7 +76,7 @@ body {
    
 }
 /*넌 왜 안 변하니???*/
-@media screen and (max-width:720){ /*태블릿*/
+@media screen and (min-width:720){ /*태블릿*/
     
     .images {
         position: fixed;
