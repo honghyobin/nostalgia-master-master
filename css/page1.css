@@ -11,7 +11,7 @@ hr{
     margin-left: 0;
 }
 body {
-    overflow: hidden;
+    overflow: hidden;/*스크롤*/
     height: 100%;
   }
 
@@ -34,6 +34,7 @@ body {
         position: absolute;
         top: 0;
         margin: 100px 550px;
+        
     }
 
     .spring{
